@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+}
+nav {
+    background-color: #a0a0a0;
+    color: white;
+    text-align: center;
+    
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+nav a:hover {
+    color: black;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: inline-block;
+}
+nav li {
+    display: inline;
+    margin: 0 10px;
+    
+}
